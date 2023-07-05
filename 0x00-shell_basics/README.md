@@ -3,3 +3,4 @@
 2	2-bring_me_home			Script to change working directory to user's home directory
 3	3-listfiles			Display current directory in long format
 4	4-listmorefiles			Display all files and hidden files
+5 	5-listfilesdigitonly		Display current directory with numerically
