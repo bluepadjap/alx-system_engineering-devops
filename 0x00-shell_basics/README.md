@@ -9,3 +9,4 @@
 8	8-firstdelete			Delete betty file from my_first_directory
 9	9-firstdirdeletion		Delete my_first_directory from tmp folder
 10	10-back				Change working directory to previous one
+11	11-lists			List all files in working directory, parent of working directory and /boot directory
