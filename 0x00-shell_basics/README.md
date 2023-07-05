@@ -6,3 +6,4 @@
 5 	5-listfilesdigitonly		Display current directory with numerically
 6	6-firstdirectory		Create a directory in tmp folder
 7	7-movethatfile			Moves file to /tmp/my_first_directory
+8	8-firstdelete			Delete betty file from my_first_directory
