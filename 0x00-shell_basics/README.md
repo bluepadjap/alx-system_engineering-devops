@@ -4,3 +4,4 @@
 3	3-listfiles			Display current directory in long format
 4	4-listmorefiles			Display all files and hidden files
 5 	5-listfilesdigitonly		Display current directory with numerically
+6	6-firstdirectory		Create a directory in tmp folder
