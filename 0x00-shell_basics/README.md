@@ -1,2 +1,3 @@
 0	0-current_working_directory	Prints current working directory
-1	1-listit			List content of directory       
+1	1-listit			List content of directory
+2	2-bring_me_home			Script to change working directory to user's home directory
