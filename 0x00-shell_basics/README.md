@@ -13,3 +13,4 @@
 12 	12-file_type			Write a script that prints the type of file
 13 	13-symbolic_link		Write a script that creates a symbolic link for the ls file
 14 	14-copy_html			Script to copy all html files to parent directory
+15 	100-lets_move			Script to move all files beginning with an uppercase to /tmp/u
