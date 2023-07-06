@@ -11,3 +11,4 @@
 10	10-back				Change working directory to previous one
 11	11-lists			List all files in working directory, parent of working directory and /boot directory
 12 	12-file_type			Write a script that prints the type of file
+13 	13-symbolic_link		Write a script that creates a symbolic link for the ls file
