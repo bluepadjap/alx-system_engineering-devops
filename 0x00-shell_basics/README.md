@@ -15,3 +15,4 @@
 14 	14-copy_html			Script to copy all html files to parent directory
 15 	100-lets_move			Script to move all files beginning with an uppercase to /tmp/u
 16	101-clean_emacs			Script to remove temporary emacs files
+17	102-tree			Script to create direcories
