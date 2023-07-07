@@ -3,3 +3,4 @@
 2	2-groups	Script to print all the groups a user is part of
 3	3-new_owner	Script to change owner of hello to betty
 4	4-empty		Script to create empty file hello
+5	5-execute	Script to add execute permission for the file owner
