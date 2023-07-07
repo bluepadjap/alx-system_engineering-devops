@@ -9,3 +9,4 @@
 8	8-James_Bond	       Script that set permissions for only others to use file hello
 9	9-John_Doe	       Script to set hello to 753
 10	10-mirror_permissions  Script to set hello permissions to olleh permissions
+11 	11-directories_permissions    Script to add executable permissions for all subdirectories of the current directory
