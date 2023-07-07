@@ -10,3 +10,4 @@
 9	9-John_Doe	       Script to set hello to 753
 10	10-mirror_permissions  Script to set hello permissions to olleh permissions
 11 	11-directories_permissions    Script to add executable permissions for all subdirectories of the current directory
+12	12-directory_permissions      Script to make a directory with a specified permission
