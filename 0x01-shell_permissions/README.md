@@ -4,3 +4,4 @@
 3	3-new_owner	Script to change owner of hello to betty
 4	4-empty		Script to create empty file hello
 5	5-execute	Script to add execute permission for the file owner
+6	6-multiple_permissions Script to add execute permission for owner group owner and read permission to others
