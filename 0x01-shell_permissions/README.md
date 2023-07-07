@@ -5,3 +5,4 @@
 4	4-empty		Script to create empty file hello
 5	5-execute	Script to add execute permission for the file owner
 6	6-multiple_permissions Script to add execute permission for owner group owner and read permission to others
+7	7-everybody	       Script to add execution permission to file hello for everybody
