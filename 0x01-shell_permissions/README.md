@@ -8,3 +8,4 @@
 7	7-everybody	       Script to add execution permission to file hello for everybody
 8	8-James_Bond	       Script that set permissions for only others to use file hello
 9	9-John_Doe	       Script to set hello to 753
+10	10-mirror_permissions  Script to set hello permissions to olleh permissions
