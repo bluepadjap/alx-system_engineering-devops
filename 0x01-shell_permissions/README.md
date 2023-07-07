@@ -13,3 +13,4 @@
 12	12-directory_permissions      Script to make a directory with a specified permission
 13	13-change_group		      Script to change gorup ownership of file hello
 14	100-change_owner_and_group    Script to change owner and group owner
+15 	101_symbolic_link_permissions Script to change oener and group of a symbolic link
