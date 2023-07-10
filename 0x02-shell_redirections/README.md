@@ -7,3 +7,4 @@
 6	6-thirdline	Script to display third line of file
 7
 8	8-cwd_state	Script to write the result of ls -la into a file
+9	9-duplicate_last_line  Script to duplicate the last line of file iacta
