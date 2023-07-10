@@ -5,3 +5,5 @@
 4	4-lastlines	Script to print last 10 lines of /etc/passwd
 5	5-firstlines	Script to print first 10 lines of /etc/passwd
 6	6-thirdline	Script to display third line of file
+7
+8	8-cwd_state	Script to write the result of ls -la into a file
