@@ -4,3 +4,4 @@
 3	3-twofiles	Script to display the contents of /etc/passwd and /etc/hosts
 4	4-lastlines	Script to print last 10 lines of /etc/passwd
 5	5-firstlines	Script to print first 10 lines of /etc/passwd
+6	6-thirdline	Script to display third line of file
