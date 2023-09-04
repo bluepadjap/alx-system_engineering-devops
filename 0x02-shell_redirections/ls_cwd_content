@@ -1,0 +1,20 @@
+total 60
+drwxr-xr-x 2 root root 4096 Sep  4 11:52 .
+drwxr-xr-x 6 root root 4096 Sep  4 10:45 ..
+-rw-r--r-- 1 root root    2 Sep  4 11:25 .gitignore
+-rwxr--r-- 1 root root   38 Sep  4 10:26 0-hello_world
+-rwxr--r-- 1 root root   30 Sep  4 10:36 1-confused_smiley
+-rwxr--r-- 1 root root   29 Sep  4 10:49 2-hellofile
+-rwxr--r-- 1 root root   40 Sep  4 10:56 3-twofiles
+-rwxr--r-- 1 root root   30 Sep  4 11:13 4-lastlines
+-rwxr--r-- 1 root root   30 Sep  4 11:17 5-firstlines
+-rwxr--r-- 1 root root   41 Sep  4 11:24 6-third_line
+-rwxr--r-- 1 root root   30 Sep  4 11:23 6-third_line~
+-rwxr--r-- 1 root root   37 Sep  4 11:52 8-cwd_state
+-rwxr--r-- 1 root root   41 Sep  4 11:39 8-cwd_state~
+-rw-r--r-- 1 root root  547 Sep  4 11:17 README.md
+-rw-r--r-- 1 root root  800 Sep  4 11:20 iacta
+-rw-r--r-- 1 root root    0 Jul 10 18:30 index.js
+-rw-r--r-- 1 root root    0 Sep  4 11:52 ls_cwd_content
+-rw-r--r-- 1 root root    0 Sep  4 11:39 ls_cwd_content~
+-rw-r--r-- 1 root root    0 Jul 10 18:30 main.js

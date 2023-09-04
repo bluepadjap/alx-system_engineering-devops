@@ -6,3 +6,6 @@ Readme file for Shell I/O Redirections and Filters
 3      3-twofiles	  Script to print contents of /etc/passwd and /etc/hosts on standard output
 4      4-lastlines	  Script to print last 10 lines of /etc/passwd file
 5      5-firstlines	  Script to print first 10 lines of /etc/passwd file
+6      6-third_line	  Script to print third line of file iacta
+
+8      8-cwd_state	  Script to print result of ls -la to file ls_cwd_content
