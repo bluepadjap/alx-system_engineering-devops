@@ -5,7 +5,7 @@
 4	4-lastlines	Script to print last 10 lines of /etc/passwd
 5	5-firstlines	Script to print first 10 lines of /etc/passwd
 6	6-thirdline	Script to display third line of file
-7
+7	7-file		Script to create a crazy caracter name
 8	8-cwd_state	Script to write the result of ls -la into a file
 9	9-duplicate_last_line  Script to duplicate the last line of file iacta
 10	10-no_more_js	Script to remove all js files in directory and sub-directories
