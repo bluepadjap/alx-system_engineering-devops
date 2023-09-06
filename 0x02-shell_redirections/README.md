@@ -15,3 +15,4 @@
 14	14-findthatword	Script to find file root
 15	15-countthatword Script to find pattern bin in /etc/passwd
 16	16_whatsnext	 Script to display the pattern root and 3 lines after them
+17	17-hidethisword	 Script to display all lines in files /etc/passwd that do not contain the pattern "bin"
