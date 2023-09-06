@@ -16,3 +16,4 @@
 15	15-countthatword Script to find pattern bin in /etc/passwd
 16	16_whatsnext	 Script to display the pattern root and 3 lines after them
 17	17-hidethisword	 Script to display all lines in files /etc/passwd that do not contain the pattern "bin"
+18	18-letteronly	 Script to display all lines of /etc/ssh/sshd_config starting with a letter
