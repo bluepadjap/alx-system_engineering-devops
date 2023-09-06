@@ -13,3 +13,4 @@
 12	12-newest_files	Script to display ten newest files in the current directory
 13	13-unique	Script to sort and ist unique names
 14	14-findthatword	Script to find file root
+15	15-countthatword Script to find pattern bin in /etc/passwd
