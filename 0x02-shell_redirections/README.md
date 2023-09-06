@@ -14,3 +14,4 @@
 13	13-unique	Script to sort and ist unique names
 14	14-findthatword	Script to find file root
 15	15-countthatword Script to find pattern bin in /etc/passwd
+16	16_whatsnext	 Script to display the pattern root and 3 lines after them
