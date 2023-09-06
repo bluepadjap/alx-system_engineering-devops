@@ -20,3 +20,4 @@
 19	19-AZ		 Script to replace all characters A and c from input to z and e
 20	20-hiago	 Script to remove all letter c an C from input
 21	21-reverse	 Script to reverse input
+22	22-users_and_homes Script to display all users and their home directories
