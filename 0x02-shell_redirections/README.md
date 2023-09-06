@@ -10,3 +10,5 @@
 9	9-duplicate_last_line  Script to duplicate the last line of file iacta
 10	10-no_more_js	Script to remove all js files in directory and sub-directories
 11	11-directories	Script to count number of directories and subdirectories
+12	12-newest_files	Script to display ten newest files in the current directory
+13	13-unique	Script to sort and ist unique names
